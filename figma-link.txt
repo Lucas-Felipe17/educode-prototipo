@@ -1,3 +1,3 @@
 Links da prototipação
 Protótipo: https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1
-
+Esse link te leva a média-fidelidade https://github.com/Lucas-Felipe17/educode-prototipo/tree/d56ce994f00cc8810d35a36941f87e81f9b257b8/m%C3%A9dia-fidelidade
