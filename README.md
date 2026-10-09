@@ -87,4 +87,4 @@ Os artefatos e protótipos oficiais do projeto podem ser consultados através do
 3. **Questionário da Pesquisa com Usuários (Google Forms):**
    * Link: [Questionário de Pesquisa EduCode](https://docs.google.com/forms/d/e/1FAIpQLSfAPIaCKr-F7dOPIfSnrt1S9xXXXWGio1ttif5IBP_WaHhYtw/viewform?usp=sharing&ouid=100170045955189046748)
 4. **Protótipo Interativo no Figma:**
-   * [PREENCHER: Link direto para o arquivo do Figma, caso o grupo queira exibir a URL direta aqui além do figma-link.txt]
+   * [PREENCHER: https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1]
