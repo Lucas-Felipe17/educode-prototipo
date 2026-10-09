@@ -67,8 +67,8 @@ A composição da equipe de desenvolvimento do projeto é apresentada na tabela 
 | **Natália Estevão Souza Moura** | 2520029 | A definir (alinhar com docs/time-agil.md) | Design de Interface (UI/UX) e Prototipação |
 
 > **Orientação Acadêmica:**
-> * Prof. Wosney Ramos de Souza (Orientador Principal)
-> * Prof. Talles Santos Faria Silva (Orientador Secundário)
+> * Prof. Eduardo Dias Pereira (Orientador Principal)
+> * Prof. Jeferson Silva Araújo (Orientador Secundário)
 
 ## 4. Como executar / Como acessar
 
@@ -87,4 +87,4 @@ Os artefatos e protótipos oficiais do projeto podem ser consultados através do
 3. **Questionário da Pesquisa com Usuários (Google Forms):**
    * Link: [Questionário de Pesquisa EduCode](https://docs.google.com/forms/d/e/1FAIpQLSfAPIaCKr-F7dOPIfSnrt1S9xXXXWGio1ttif5IBP_WaHhYtw/viewform?usp=sharing&ouid=100170045955189046748)
 4. **Protótipo Interativo no Figma:**
-   * [PREENCHER: https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1]
+   * Link: [Figma] (https://www.figma.com/design/NJ75xlvxPkE1fKGcYK05a5/PI_PROT%C3%93TIPO?node-id=0-1&t=6lzJsraY2jJp7ZMl-1).
